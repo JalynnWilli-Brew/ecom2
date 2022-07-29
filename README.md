@@ -1,3 +1,7 @@
+Hosted Site to Naturally Bee can be found at: https://master.dobnj82pjdro6.amplifyapp.com
+However, it is only the homepage as the links to the other pages aren't connected to the main page.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
